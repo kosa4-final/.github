@@ -1,12 +1,43 @@
-## Hi there 👋
 
-<!--
+# super-newsletter 조직 소개
 
-**Here are some ideas to get you started:**
+super-newsletter 은 대규모 해외뉴스 구독서비스를 제공하자 하는 서비스입니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 프로젝트 구조
+
+우리 프로젝트는 다음과 같은 구조로 이루어져 있습니다:
+
+1. **문서화 (sn-docs)**: 프로젝트의 전반적인 설계와 문서를 관리합니다.
+2. **프론트엔드 (sn-frontend)**: 사용자 인터페이스를 개발합니다.
+3. **백엔드 (sn-backend)**: 서버 로직과 데이터베이스 관리를 담당합니다.
+4. **프로젝트 관리**: GitHub Projects를 활용하여 작업 진행 상황을 추적합니다.
+
+## 주요 기능
+
+우리 플랫폼은 다음과 같은 주요 기능을 제공합니다:
+
+1. **뉴스 구독**: 사용자는 원하는 해외 뉴스를 구독할 수 있습니다.
+2. **뉴스 피드**: 사용자는 구독한 뉴스를 한 곳에서 확인할 수 있습니다.
+
+
+## 기술 스택
+
+우리 프로젝트에서 사용하는 주요 기술 스택은 다음과 같습니다:
+
+- **백엔드**: Spring Boot, JPA, MySQL
+- **프론트엔드**: React, Redux, Styled-components
+- **인프라**: Docker, AWS
+
+## 참여 방법
+
+우리 프로젝트에 관심이 있으시다면 다음과 같은 방법으로 참여하실 수 있습니다:
+
+1. 각 리포지토리의 Issues를 확인하고 작업에 참여하기
+2. Pull Request를 통해 코드 기여하기
+3. 문서화 작업에 참여하기
+
+## 연락처
+
+프로젝트에 대한 질문이나 제안이 있으시면 언제든 Issues를 통해 의견을 남겨주세요.
+
+우리는 항상 새로운 아이디어와 기여를 환영합니다. 함께 더 나은 전자상거래 플랫폼을 만들어 나가길 기대합니다!
